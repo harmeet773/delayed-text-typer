@@ -1,1 +1,1 @@
-"# delayed-text-typer" 
+# delayed-text-typer
